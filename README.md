@@ -4,7 +4,7 @@
 I'm Bianca or [@buzea200](https://x.com/buzea200?lang=en) on X.
 
 
-I am the Lead DevRel of Chronicle Protocol. As a Web2 FAANG Solutions Architect turned Web3 DevRel, I've been working to onboard developers into the Web3 ecosystem, focusing on user experience and developer engagement. I also founded [DevRel Uni](https://www.devreluni.com/), the first program designed to help individuals start a career in Developer Relations.
+I am the Lead DevRel of [Chronicle Protocol](https://chroniclelabs.org/). As a Web2 FAANG Solutions Architect turned Web3 DevRel, I've been working to onboard developers into the Web3 ecosystem, focusing on user experience and developer engagement. I also founded [DevRel Uni](https://www.devreluni.com/), the first program designed to help individuals start a career in Developer Relations.
 
 ## 🎙️ Talks:
 You can find me delivering talks and workshops around the world, in places like the USA, Germany, Spain, Colombia, Netherlands, Poland, Romania, France, and the UK. 🌏
